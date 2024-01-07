@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allocco14
 - 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently learning Django and Angular
+- 🌱 I’m currently learning Django, Vue, and Angular
 - 💞️ I’m looking to collaborate on Industrial and Home Automation 
 - 📫 How to reach me at my email: achavesl@unal.edu.co
 
