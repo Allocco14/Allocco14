@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Data Science.
 - 🌱 I’m currently learning Django, Vue, and Angular
 - 💞️ I’m looking to collaborate on Industrial and Home Automation 
-- 📫 How to reach me at my email: achavesl@unal.edu.co
+- 📫 How to reach me at my email: 
 
 <!---
 Allocco14/Allocco14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
